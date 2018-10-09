@@ -1,2 +1,2 @@
 # libpeer-js
-Libpeer JS implementation
+Libpeer JS implementation. Just interfaces.
