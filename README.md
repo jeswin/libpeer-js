@@ -19,3 +19,5 @@ Streams contain messages in the following format.
 - sig signs prev_hash + content
 - sig eg: "EQngCchOejwfWAcZ2Xgr5QR6iquBQVlF++1/ZOLlRJQfyj4TxHk6MHRUKV/o7L35h2zfL1K+Il991JxrxCT+BA==.sig.ed25519"
 - hash is hash of prev_hash + content + sig
+
+f
